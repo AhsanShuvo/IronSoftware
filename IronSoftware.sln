@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronSoftware.OldPhonePadApp", "IronSoftware.OldPhonePadApp\IronSoftware.OldPhonePadApp.csproj", "{3DC681CC-F53B-4214-AC7A-5EC8132F69F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronSoftware.PhonePadLibTests", "IronSoftware.PhonePadLibTests\IronSoftware.PhonePadLibTests.csproj", "{A603D5C5-395B-4566-B0F6-5244A939162B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronSoftware.PhonePadLib", "IronSoftware.PhonePadLib\IronSoftware.PhonePadLib.csproj", "{16F609BB-B07B-419D-A086-1ACD679419A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DC681CC-F53B-4214-AC7A-5EC8132F69F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DC681CC-F53B-4214-AC7A-5EC8132F69F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DC681CC-F53B-4214-AC7A-5EC8132F69F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DC681CC-F53B-4214-AC7A-5EC8132F69F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A603D5C5-395B-4566-B0F6-5244A939162B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A603D5C5-395B-4566-B0F6-5244A939162B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A603D5C5-395B-4566-B0F6-5244A939162B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A603D5C5-395B-4566-B0F6-5244A939162B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16F609BB-B07B-419D-A086-1ACD679419A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16F609BB-B07B-419D-A086-1ACD679419A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16F609BB-B07B-419D-A086-1ACD679419A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16F609BB-B07B-419D-A086-1ACD679419A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
